@@ -1,0 +1,17 @@
+commit 9a7e333251c54eff3050932b700ba7e394349453
+Author: Michálková Anna <anna.michalkova@profinit.eu>
+Date:   Mon Oct 7 17:03:13 2019 +0200
+
+    zk
+
+commit 57beb0cf0d216e2a8a548ec646a642d0eb6e9b16
+Author: Michálková Anna <anna.michalkova@profinit.eu>
+Date:   Mon Oct 7 16:46:59 2019 +0200
+
+    file1.txt and file2.txt created
+
+commit ea11cdd4bdf7e48bbeacda1e9b4c1bb46d4e3885
+Author: Michálková Anna <anna.michalkova@profinit.eu>
+Date:   Mon Oct 7 16:45:01 2019 +0200
+
+    new.txt created

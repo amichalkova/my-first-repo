@@ -1,2 +1,2 @@
 blablabla
-something from master branch
+something from new branch
